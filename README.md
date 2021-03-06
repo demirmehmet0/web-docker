@@ -1,3 +1,3 @@
 # web-docker
 web-docker and docker installation
-[My image](demirmehmet0.github.com/repository/web-docker/image.jpg)
+[My image](https://github.com/demirmehmet0/web-dockerimage.jpg)
